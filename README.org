@@ -1,10 +1,10 @@
 * Fall 2021 235 Assignments
 
-* Last name:
+* Last name: Ahmad
 
-* First name:
+* First name: Syed
 
-* GitHub username:
+* GitHub username: KimofyTheDev
 
 * Notes:
 
@@ -13,5 +13,3 @@
 * General instructions:
 - Fill in your name and GitHub username on top.
 - Make a folder and add files for each small assignment
-
-
