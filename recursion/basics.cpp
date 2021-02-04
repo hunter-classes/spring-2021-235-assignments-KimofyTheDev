@@ -12,6 +12,5 @@ int fib(int n) {
 int main() {
   // test case
   std::cout << fib(9) << "\n"; // should output 34
-
   return 0;
 }
